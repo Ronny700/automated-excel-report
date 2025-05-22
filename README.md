@@ -59,8 +59,11 @@ bash
 Copiar
 Editar
 automated-excel-report/
+
 ├── excel_report_generator.py
+
 ├── README.md
+
 └── resultado_final.xlsx  # (gerado após a execução)
 
 🤝 Contribuição
